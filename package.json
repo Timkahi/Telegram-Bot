@@ -13,5 +13,9 @@
     "url": "https://github.com/Timkahi/Telegram-Bot/issues"
   },
   "author": "\"Tima Lotah\"",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.21"
+  }
 }
